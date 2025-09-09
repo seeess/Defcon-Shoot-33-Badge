@@ -1,5 +1,5 @@
 # Defcon-Shoot-33-Badge
-STLs of the defcon shoot 33 badge. The only supports you should need are for the bolt (printed upside down). Use a smooth plate for the bolt, the rest of the parts can use a textured plate.
+STLs of the defcon shoot 33 badge. The only supports you should need are for the bolt (printed upside down). Use a smooth plate for the bolt, the rest of the parts can use a textured plate. I used a dynamic layer height, if you print the threads of the bolt and frame with 0.16 or lower the threads have less overhang and come out better and aren't as tight.
 
 Instructions: unscrew the bolts and insert the trigger (they weren't installed for shipping in the vegas heat in case the plastic trigger spring warped)  
 Put the tictac container on top.  
